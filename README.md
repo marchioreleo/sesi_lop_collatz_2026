@@ -35,3 +35,5 @@ void main(){
 	}
 	printf("Seu número deu 1! Foram necessárias %d operações para este resultado.", op);
 }
+```
+![FLUXOGRAMA](Collatz.drawio.png)
